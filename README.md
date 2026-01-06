@@ -1,45 +1,43 @@
 # Socialist Students Front - Mymensingh Zila Unit
 ### সমাজতান্ত্রিক ছাত্র ফ্রন্ট - ময়মনসিংহ জেলা শাখা
 
-This repository contains the source code and assets for the official website of the Socialist Students Front (SSF), Mymensingh Jilla Unit. This platform serves as a digital gateway for membership, ideological education, and organizational updates within the Mymensingh district.
+![SSF Logo](https://socialiststudentsfront.org/wp-content/uploads/2021/01/SSF-Logo-300x300.png)
 
-## Organizational Objectives
-The Mymensingh Jilla Unit operates under the central principles of the SSF, striving for a scientific, secular, and egalitarian education system. This website aims to:
-* Centralize the membership application process for students across Mymensingh.
-* Provide easy access to the organization's 21-point program and manifestos.
-* Coordinate activities between various institutional units, including Ananda Mohan College and Bangladesh Agricultural University.
+এই প্ল্যাটফর্মটি সমাজতান্ত্রিক ছাত্র ফ্রন্ট, ময়মনসিংহ জেলা শাখার একটি ডিজিটাল মেম্বারশিপ অ্যাপ্লিকেশন পোর্টাল। আমাদের লক্ষ্য বিজ্ঞানভিত্তিক, সেক্যুলার এবং বৈষম্যহীন শিক্ষাব্যবস্থা গড়ার সংগ্রামে শিক্ষার্থীদের ঐক্যবদ্ধ করা। 
 
-## Core Features
-* Membership Portal: A secure interface for new students to apply for membership.
-* Archive: Digital versions of organizational publications and historical documents.
-* Notice Board: Official press releases and announcements regarding district-level programs.
-* Unit Directory: A comprehensive list of active units within the Mymensingh district.
+This repository hosts the official membership application website for the Mymensingh Zila Unit. It is designed to streamline the process for students to join the organization and access ideological resources online.
+
+## Membership Application Portal
+The primary function of this website is to provide a seamless interface for students from Ananda Mohan College, Bangladesh Agricultural University (BAU), and other institutions in Mymensingh to apply for membership.
+
+* **Primary Action:** Users can navigate to the registration section to submit their details.
+* **Redirection:** The "Join Us" interface integrates with the central organizational framework.
+
+## Key Features
+* **Animated Join Us Interface:** A high-visibility, animated call-to-action button for new applicants.
+* **Institutional Routing:** Dropdown selections for various units under the Mymensingh Zila jurisdiction.
+* **Direct Integration:** Connected to the broader network via [ssfdp.com.in](https://ssfdp.com.in).
 
 ## Technical Specifications
-* Framework: HTML5, CSS3, and JavaScript.
-* Deployment: Hosted via GitHub Pages.
-* Data Handling: [Insert Method, e.g., Netlify Forms / Formspree].
+* **Framework:** HTML5, CSS3, JavaScript.
+* **Animation:** CSS Keyframes for the "Join Us" button movement.
+* **Hyperlink Integration:** Using standard anchor methods to connect with `https://ssfdp.com.in`.
 
 ## Project Structure
 | Directory/File | Description |
 | :--- | :--- |
-| /index.html | The primary landing page and entry point. |
-| /assets | Contains official logos, CSS stylesheets, and images. |
-| /js | Scripts for form handling and UI interactivity. |
-| /docs | Organizational documents and PDF resources. |
+| /index.html | Main application landing page. |
+| /assets | Logos, animated CSS styles, and district-specific imagery. |
+| /js | Form validation and button animation logic. |
 
-## Contribution Guidelines
-Technical members and comrades are encouraged to contribute to the development of this platform.
-1. Fork the repository to your account.
-2. Create a feature branch for specific updates.
-3. Ensure all code follows the organization's UI/UX standards.
-4. Submit a Pull Request for review by the IT subcommittee.
+## How to Join
+Students are encouraged to click the **Join Us** button on the live site, which will redirect them to the formal application process:
+[Join the Movement](https://ssfdp.com.in)
 
 ## Contact Information
-For official inquiries or organizational matters:
-* District Office: [Insert Address, Mymensingh]
-* Official Email: [Insert Email Address]
-* Social Media: [Insert Facebook/Telegram Link]
+* **District Office:** [Insert Address, Mymensingh]
+* **Official Email:** [Insert Email Address]
+* **Central Portal:** [ssfdp.com.in](https://ssfdp.com.in)
 
 ---
-Copyright (c) 2024 Socialist Students Front - Mymensingh Jilla Unit.
+Copyright (c) 2026 Socialist Students Front - Mymensingh Zila Unit.
