@@ -6,7 +6,7 @@
 This repository hosts the official membership application website for the Mymensingh Zila Unit. It is designed to streamline the process for students to join the organization and access ideological resources online.
 
 ## Membership Application Portal
-The primary function of this website is to provide a seamless interface for students from Ananda Mohan College, Bangladesh Agricultural University (BAU), and other institutions in Mymensingh to apply for membership.
+The primary function of this website is to provide a seamless interface for students from institutions in Mymensingh to apply for membership.
 
 * **Primary Action:** Users can navigate to the registration section to submit their details.
 * **Redirection:** The "Join Us" interface integrates with the central organizational framework.
@@ -14,7 +14,7 @@ The primary function of this website is to provide a seamless interface for stud
 ## Key Features
 * **Animated Join Us Interface:** A high-visibility, animated call-to-action button for new applicants.
 * **Institutional Routing:** Dropdown selections for various units under the Mymensingh Zila jurisdiction.
-* **Direct Integration:** Connected to the broader network via [ssfdp.com.in](https://ssfdp.c0m.in).
+* **Direct Integration:** Connected to the broader network via [ssfdp.c0m.in](https://ssfdp.c0m.in).
 
 ## Technical Specifications
 * **Framework:** HTML5, CSS3, JavaScript.
