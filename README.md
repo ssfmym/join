@@ -1,10 +1,6 @@
 # Socialist Students Front - Mymensingh Zila Unit
 ### সমাজতান্ত্রিক ছাত্র ফ্রন্ট - ময়মনসিংহ জেলা শাখা
 
-![flag](https://upload.wikimedia.org/wikipedia/commons/2/23/Socialist_Students%27_Front_Flag.png)
-
-![logo](https://upload.wikimedia.org/wikipedia/en/3/30/Ssf.org.jpg)
-
 এই প্ল্যাটফর্মটি সমাজতান্ত্রিক ছাত্র ফ্রন্ট, ময়মনসিংহ জেলা শাখার একটি ডিজিটাল মেম্বারশিপ অ্যাপ্লিকেশন পোর্টাল। আমাদের লক্ষ্য বিজ্ঞানভিত্তিক, সেক্যুলার, প্রগতিশীল এবং বৈষম্যহীন শিক্ষাব্যবস্থা গড়ার সংগ্রামে শিক্ষার্থীদের ঐক্যবদ্ধ করা।
 
 This repository hosts the official membership application website for the Mymensingh Zila Unit. It is designed to streamline the process for students to join the organization and access ideological resources online.
@@ -18,24 +14,17 @@ The primary function of this website is to provide a seamless interface for stud
 ## Key Features
 * **Animated Join Us Interface:** A high-visibility, animated call-to-action button for new applicants.
 * **Institutional Routing:** Dropdown selections for various units under the Mymensingh Zila jurisdiction.
-* **Direct Integration:** Connected to the broader network via [ssfdp.com.in](https://ssfdp.com.in).
+* **Direct Integration:** Connected to the broader network via [ssfdp.com.in](https://ssfdp.c0m.in).
 
 ## Technical Specifications
 * **Framework:** HTML5, CSS3, JavaScript.
 * **Animation:** CSS Keyframes for the "Join Us" button movement.
-* **Hyperlink Integration:** Using standard anchor methods to connect with `https://ssfdp.com.in`.
-
-## Project Structure
-| Directory/File | Description |
-| :--- | :--- |
-| /index.html | Main application landing page. |
-| /assets | Logos and district-specific imagery. |
-| /js | Form validation and button animation logic. |
+* **Hyperlink Integration:** Using standard anchor methods to connect with `https://ssfdp.c0m.in`.
 
 ## How to Join
 Students are encouraged to click the **Join Us** button on the live site, which will redirect them to the formal application process:
 
-**[Join the Movement / আমাদের সাথে যুক্ত হন](https://ssfdp.com.in)**
+**[Join the Movement / আমাদের সাথে যুক্ত হন](https://ssfdp.c0m.in)**
 
 ## Contact Information
 * **District Office:** [Insert Address, Mymensingh]
