@@ -1,11 +1,9 @@
 # Socialist Students Front - Mymensingh Zila Unit
 ### সমাজতান্ত্রিক ছাত্র ফ্রন্ট - ময়মনসিংহ জেলা শাখা
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Socialist_Students%27_Front_Flag.png" width="200" alt="SSF Flag">
-  <br>
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Ssf.org.jpg" width="120" alt="SSF Logo">
-</div>
+![flag](https://upload.wikimedia.org/wikipedia/commons/2/23/Socialist_Students%27_Front_Flag.png)
+
+![logo](https://upload.wikimedia.org/wikipedia/en/3/30/Ssf.org.jpg)
 
 এই প্ল্যাটফর্মটি সমাজতান্ত্রিক ছাত্র ফ্রন্ট, ময়মনসিংহ জেলা শাখার একটি ডিজিটাল মেম্বারশিপ অ্যাপ্লিকেশন পোর্টাল। আমাদের লক্ষ্য বিজ্ঞানভিত্তিক, সেক্যুলার, প্রগতিশীল এবং বৈষম্যহীন শিক্ষাব্যবস্থা গড়ার সংগ্রামে শিক্ষার্থীদের ঐক্যবদ্ধ করা।
 
